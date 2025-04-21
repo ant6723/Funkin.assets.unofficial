@@ -1,6 +1,6 @@
 {
 "AN": {
-"N": "Pico_Fighting_Animations_V3",
+"N": "fighting pico ass",
 "STI": {
 "SI": {
 "SN": "Pico Fighting ALL ANIMS",
@@ -40,29 +40,29 @@
 "FR": [
 {
 "I": 0,
-"DU": 64,
+"DU": 67,
 "E": []
 },
 {
 "N": "Taunt Laugh Loop",
-"I": 64,
-"DU": 4,
+"I": 67,
+"DU": 9,
 "E": []
 },
 {
-"I": 68,
+"I": 76,
 "DU": 7,
 "E": []
 },
 {
 "N": "Uppercut Punch Loop",
-"I": 75,
+"I": 83,
 "DU": 3,
 "E": []
 },
 {
-"I": 78,
-"DU": 303,
+"I": 86,
+"DU": 301,
 "E": []
 }
 ]
@@ -133,53 +133,53 @@
 {
 "N": "Fake Hit",
 "I": 57,
-"DU": 5,
+"DU": 8,
 "E": []
 },
 {
 "N": "Taunt",
-"I": 62,
-"DU": 6,
+"I": 65,
+"DU": 11,
 "E": []
 },
 {
 "N": "Uppercut Prep",
-"I": 68,
+"I": 76,
 "DU": 5,
 "E": []
 },
 {
 "N": "Uppercut Punch",
-"I": 73,
+"I": 81,
 "DU": 5,
 "E": []
 },
 {
 "N": "Hit Spin",
-"I": 78,
+"I": 86,
 "DU": 3,
 "E": []
 },
 {
-"I": 81,
+"I": 89,
 "DU": 4,
 "E": []
 },
 {
 "N": "Low Death Intro",
-"I": 85,
+"I": 93,
 "DU": 44,
 "E": []
 },
 {
 "N": "Low Death Loop",
-"I": 129,
+"I": 137,
 "DU": 148,
 "E": []
 },
 {
 "N": "Low Death Confirm",
-"I": 277,
+"I": 285,
 "DU": 102,
 "E": []
 }
@@ -194,7 +194,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -231,7 +231,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -268,7 +268,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -305,7 +305,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -342,7 +342,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -379,7 +379,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 5,
@@ -416,7 +416,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 6,
@@ -453,7 +453,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 7,
@@ -490,7 +490,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 8,
@@ -527,7 +527,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 9,
@@ -564,7 +564,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 10,
@@ -601,7 +601,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 11,
@@ -638,7 +638,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 12,
@@ -675,7 +675,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "IN": "",
 "ST": "G",
 "FF": 13,
@@ -712,7 +712,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -749,7 +749,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -786,7 +786,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -823,7 +823,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -860,7 +860,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -897,7 +897,7 @@
 "E": [
 {
 "SI": {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -934,7 +934,7 @@
 "E": [
 {
 "SI": {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -971,7 +971,7 @@
 "E": [
 {
 "SI": {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1008,7 +1008,7 @@
 "E": [
 {
 "SI": {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1045,7 +1045,7 @@
 "E": [
 {
 "SI": {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -1082,7 +1082,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch high pico",
+"SN": "sprites/punch high pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1119,7 +1119,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch high pico",
+"SN": "sprites/punch high pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1156,7 +1156,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch high pico",
+"SN": "sprites/punch high pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1193,7 +1193,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch high pico",
+"SN": "sprites/punch high pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1230,7 +1230,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch High 2 Pico ",
+"SN": "sprites/Punch High 2 Pico ",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1267,7 +1267,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch High 2 Pico ",
+"SN": "sprites/Punch High 2 Pico ",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1304,7 +1304,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch High 2 Pico ",
+"SN": "sprites/Punch High 2 Pico ",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1341,7 +1341,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch High 2 Pico ",
+"SN": "sprites/Punch High 2 Pico ",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1378,7 +1378,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch Low Pico",
+"SN": "sprites/Punch Low Pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1415,7 +1415,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch Low Pico",
+"SN": "sprites/Punch Low Pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1452,7 +1452,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch Low Pico",
+"SN": "sprites/Punch Low Pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1489,7 +1489,7 @@
 "E": [
 {
 "SI": {
-"SN": "Punch Low Pico",
+"SN": "sprites/Punch Low Pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1526,7 +1526,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch low 2 pico ",
+"SN": "sprites/punch low 2 pico ",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1563,7 +1563,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch low 2 pico ",
+"SN": "sprites/punch low 2 pico ",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1600,7 +1600,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch low 2 pico ",
+"SN": "sprites/punch low 2 pico ",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1637,7 +1637,7 @@
 "E": [
 {
 "SI": {
-"SN": "punch low 2 pico ",
+"SN": "sprites/punch low 2 pico ",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1674,7 +1674,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1711,7 +1711,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1748,7 +1748,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1785,7 +1785,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1822,7 +1822,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit high pico",
+"SN": "sprites/hit high pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -1859,7 +1859,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit high pico",
+"SN": "sprites/hit high pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -1896,7 +1896,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit high pico",
+"SN": "sprites/hit high pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -1933,7 +1933,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit high pico",
+"SN": "sprites/hit high pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -1970,7 +1970,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -2007,7 +2007,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -2044,7 +2044,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -2081,7 +2081,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -2118,7 +2118,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -2155,7 +2155,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 5,
@@ -2192,7 +2192,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 6,
@@ -2229,7 +2229,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 7,
@@ -2266,7 +2266,7 @@
 "E": [
 {
 "SI": {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "IN": "",
 "ST": "G",
 "FF": 8,
@@ -2303,7 +2303,7 @@
 "E": [
 {
 "SI": {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -2340,7 +2340,7 @@
 "E": [
 {
 "SI": {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -2377,7 +2377,7 @@
 "E": [
 {
 "SI": {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -2414,7 +2414,7 @@
 "E": [
 {
 "SI": {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -2451,7 +2451,7 @@
 "E": [
 {
 "SI": {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -2488,7 +2488,118 @@
 "E": [
 {
 "SI": {
-"SN": "laughing pico",
+"SN": "sprites/fake out pico",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 220.0,
+"y": 229.25
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+18.7,
+-384.6,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 63,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/fake out pico",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 220.0,
+"y": 229.25
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+18.7,
+-384.6,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 64,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/fake out pico",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 220.0,
+"y": 229.25
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+18.7,
+-384.6,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 65,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -2520,126 +2631,15 @@
 ]
 },
 {
-"I": 63,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "laughing pico",
-"IN": "",
-"ST": "G",
-"FF": 1,
-"LP": "LP",
-"TRP": {
-"x": 178.7,
-"y": 241.55
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-76.9,
--409.5,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 64,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "laughing pico",
-"IN": "",
-"ST": "G",
-"FF": 2,
-"LP": "LP",
-"TRP": {
-"x": 178.7,
-"y": 241.55
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-76.9,
--409.5,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 65,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "laughing pico",
-"IN": "",
-"ST": "G",
-"FF": 3,
-"LP": "LP",
-"TRP": {
-"x": 178.7,
-"y": 241.55
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-76.9,
--409.5,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
 "I": 66,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "laughing pico",
+"SN": "sprites/laughing pico",
 "IN": "",
 "ST": "G",
-"FF": 4,
+"FF": 1,
 "LP": "LP",
 "TRP": {
 "x": 178.7,
@@ -2673,10 +2673,10 @@
 "E": [
 {
 "SI": {
-"SN": "laughing pico",
+"SN": "sprites/laughing pico",
 "IN": "",
 "ST": "G",
-"FF": 5,
+"FF": 2,
 "LP": "LP",
 "TRP": {
 "x": 178.7,
@@ -2710,7 +2710,303 @@
 "E": [
 {
 "SI": {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 3,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 69,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 4,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 70,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 71,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 72,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 73,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 74,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 9,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 75,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/laughing pico",
+"IN": "",
+"ST": "G",
+"FF": 10,
+"LP": "LP",
+"TRP": {
+"x": 178.7,
+"y": 241.55
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+76.9,
+-409.5,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 76,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "sprites/Pre-Uppercut Pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -2742,12 +3038,12 @@
 ]
 },
 {
-"I": 69,
+"I": 77,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/Pre-Uppercut Pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -2779,12 +3075,12 @@
 ]
 },
 {
-"I": 70,
+"I": 78,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/Pre-Uppercut Pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -2816,12 +3112,12 @@
 ]
 },
 {
-"I": 71,
+"I": 79,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/Pre-Uppercut Pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -2853,12 +3149,12 @@
 ]
 },
 {
-"I": 72,
+"I": 80,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/Pre-Uppercut Pico",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -2890,12 +3186,12 @@
 ]
 },
 {
-"I": 73,
+"I": 81,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "uppercut pico",
+"SN": "sprites/uppercut pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -2927,315 +3223,19 @@
 ]
 },
 {
-"I": 74,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "uppercut pico",
-"IN": "",
-"ST": "G",
-"FF": 1,
-"LP": "LP",
-"TRP": {
-"x": 218.0,
-"y": 252.95
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-35.9,
--426.3,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 75,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "uppercut pico",
-"IN": "",
-"ST": "G",
-"FF": 2,
-"LP": "LP",
-"TRP": {
-"x": 218.0,
-"y": 252.95
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-35.9,
--426.3,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 76,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "uppercut pico",
-"IN": "",
-"ST": "G",
-"FF": 3,
-"LP": "LP",
-"TRP": {
-"x": 218.0,
-"y": 252.95
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-35.9,
--426.3,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 77,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "uppercut pico",
-"IN": "",
-"ST": "G",
-"FF": 4,
-"LP": "LP",
-"TRP": {
-"x": 218.0,
-"y": 252.95
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-35.9,
--426.3,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 78,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "spin pico ",
-"IN": "",
-"ST": "G",
-"FF": 0,
-"LP": "LP",
-"TRP": {
-"x": 0.0,
-"y": 0.0
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
--0.05,
--0.05,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 79,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "spin pico ",
-"IN": "",
-"ST": "G",
-"FF": 1,
-"LP": "LP",
-"TRP": {
-"x": 0.0,
-"y": 0.0
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
--0.05,
--0.05,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 80,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "spin pico ",
-"IN": "",
-"ST": "G",
-"FF": 2,
-"LP": "LP",
-"TRP": {
-"x": 0.0,
-"y": 0.0
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
--0.05,
--0.05,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
-"I": 81,
-"DU": 1,
-"E": [
-{
-"SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
-"IN": "",
-"ST": "G",
-"FF": 0,
-"LP": "PO",
-"TRP": {
-"x": 0.0,
-"y": 0.0
-},
-"M3D": [
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-0.0,
-0.0,
-0.0,
-1.0,
-0.0,
-269.85,
-34.9,
-0.0,
-1.0
-]
-}
-}
-]
-},
-{
 "I": 82,
 "DU": 1,
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/uppercut pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
-"LP": "PO",
+"LP": "LP",
 "TRP": {
-"x": 0.0,
-"y": 0.0
+"x": 218.0,
+"y": 252.95
 },
 "M3D": [
 1.0,
@@ -3250,8 +3250,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+35.9,
+-426.3,
 0.0,
 1.0
 ]
@@ -3265,14 +3265,14 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/uppercut pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
-"LP": "PO",
+"LP": "LP",
 "TRP": {
-"x": 0.0,
-"y": 0.0
+"x": 218.0,
+"y": 252.95
 },
 "M3D": [
 1.0,
@@ -3287,8 +3287,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+35.9,
+-426.3,
 0.0,
 1.0
 ]
@@ -3302,14 +3302,14 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/uppercut pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
-"LP": "PO",
+"LP": "LP",
 "TRP": {
-"x": 0.0,
-"y": 0.0
+"x": 218.0,
+"y": 252.95
 },
 "M3D": [
 1.0,
@@ -3324,8 +3324,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+35.9,
+-426.3,
 0.0,
 1.0
 ]
@@ -3339,14 +3339,14 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/uppercut pico",
 "IN": "",
 "ST": "G",
 "FF": 4,
-"LP": "PO",
+"LP": "LP",
 "TRP": {
-"x": 0.0,
-"y": 0.0
+"x": 218.0,
+"y": 252.95
 },
 "M3D": [
 1.0,
@@ -3361,8 +3361,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+35.9,
+-426.3,
 0.0,
 1.0
 ]
@@ -3376,11 +3376,11 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/spin pico ",
 "IN": "",
 "ST": "G",
-"FF": 5,
-"LP": "PO",
+"FF": 0,
+"LP": "LP",
 "TRP": {
 "x": 0.0,
 "y": 0.0
@@ -3398,8 +3398,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+-0.05,
+-0.05,
 0.0,
 1.0
 ]
@@ -3413,11 +3413,11 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/spin pico ",
 "IN": "",
 "ST": "G",
-"FF": 6,
-"LP": "PO",
+"FF": 1,
+"LP": "LP",
 "TRP": {
 "x": 0.0,
 "y": 0.0
@@ -3435,8 +3435,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+-0.05,
+-0.05,
 0.0,
 1.0
 ]
@@ -3450,11 +3450,11 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death Frame Labels",
+"SN": "sprites/spin pico ",
 "IN": "",
 "ST": "G",
-"FF": 7,
-"LP": "PO",
+"FF": 2,
+"LP": "LP",
 "TRP": {
 "x": 0.0,
 "y": 0.0
@@ -3472,8 +3472,8 @@
 0.0,
 1.0,
 0.0,
-269.85,
-34.9,
+-0.05,
+-0.05,
 0.0,
 1.0
 ]
@@ -3490,7 +3490,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 8,
+"FF": 0,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3527,7 +3527,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 9,
+"FF": 1,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3564,7 +3564,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 10,
+"FF": 2,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3601,7 +3601,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 11,
+"FF": 3,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3638,7 +3638,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 12,
+"FF": 4,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3675,7 +3675,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 13,
+"FF": 5,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3712,7 +3712,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 14,
+"FF": 6,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3749,7 +3749,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 15,
+"FF": 7,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3786,7 +3786,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 16,
+"FF": 8,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3823,7 +3823,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 17,
+"FF": 9,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3860,7 +3860,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 18,
+"FF": 10,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3897,7 +3897,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 19,
+"FF": 11,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3934,7 +3934,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 20,
+"FF": 12,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -3971,7 +3971,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 21,
+"FF": 13,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4008,7 +4008,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 22,
+"FF": 14,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4045,7 +4045,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 23,
+"FF": 15,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4082,7 +4082,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 24,
+"FF": 16,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4119,7 +4119,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 25,
+"FF": 17,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4156,7 +4156,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 26,
+"FF": 18,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4193,7 +4193,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 27,
+"FF": 19,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4230,7 +4230,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 28,
+"FF": 20,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4267,7 +4267,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 29,
+"FF": 21,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4304,7 +4304,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 30,
+"FF": 22,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4341,7 +4341,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 31,
+"FF": 23,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4378,7 +4378,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 32,
+"FF": 24,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4415,7 +4415,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 33,
+"FF": 25,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4452,7 +4452,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 34,
+"FF": 26,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4489,7 +4489,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 35,
+"FF": 27,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4526,7 +4526,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 36,
+"FF": 28,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4563,7 +4563,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 37,
+"FF": 29,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4600,7 +4600,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 38,
+"FF": 30,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4637,7 +4637,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 39,
+"FF": 31,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4674,7 +4674,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 40,
+"FF": 32,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4711,7 +4711,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 41,
+"FF": 33,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4748,7 +4748,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 42,
+"FF": 34,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4785,7 +4785,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 43,
+"FF": 35,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4822,7 +4822,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 44,
+"FF": 36,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4859,7 +4859,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 45,
+"FF": 37,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4896,7 +4896,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 46,
+"FF": 38,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4933,7 +4933,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 47,
+"FF": 39,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -4970,7 +4970,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 48,
+"FF": 40,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5007,7 +5007,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 49,
+"FF": 41,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5044,7 +5044,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 50,
+"FF": 42,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5081,7 +5081,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 51,
+"FF": 43,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5118,7 +5118,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 52,
+"FF": 44,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5155,7 +5155,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 53,
+"FF": 45,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5192,7 +5192,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 54,
+"FF": 46,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5229,7 +5229,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 55,
+"FF": 47,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5266,7 +5266,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 56,
+"FF": 48,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5303,7 +5303,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 57,
+"FF": 49,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5340,7 +5340,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 58,
+"FF": 50,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5377,7 +5377,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 59,
+"FF": 51,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5414,7 +5414,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 60,
+"FF": 52,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5451,7 +5451,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 61,
+"FF": 53,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5488,7 +5488,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 62,
+"FF": 54,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5525,7 +5525,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 63,
+"FF": 55,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5562,7 +5562,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 64,
+"FF": 56,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5599,7 +5599,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 65,
+"FF": 57,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5636,7 +5636,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 66,
+"FF": 58,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5673,7 +5673,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 67,
+"FF": 59,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5710,7 +5710,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 68,
+"FF": 60,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5747,7 +5747,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 69,
+"FF": 61,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5784,7 +5784,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 70,
+"FF": 62,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5821,7 +5821,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 71,
+"FF": 63,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5858,7 +5858,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 72,
+"FF": 64,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5895,7 +5895,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 73,
+"FF": 65,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5932,7 +5932,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 74,
+"FF": 66,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -5969,7 +5969,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 75,
+"FF": 67,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6006,7 +6006,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 76,
+"FF": 68,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6043,7 +6043,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 77,
+"FF": 69,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6080,7 +6080,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 78,
+"FF": 70,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6117,7 +6117,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 79,
+"FF": 71,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6154,7 +6154,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 80,
+"FF": 72,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6191,7 +6191,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 81,
+"FF": 73,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6228,7 +6228,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 82,
+"FF": 74,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6265,7 +6265,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 83,
+"FF": 75,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6302,7 +6302,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 84,
+"FF": 76,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6339,7 +6339,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 85,
+"FF": 77,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6376,7 +6376,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 86,
+"FF": 78,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6413,7 +6413,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 87,
+"FF": 79,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6450,7 +6450,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 88,
+"FF": 80,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6487,7 +6487,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 89,
+"FF": 81,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6524,7 +6524,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 90,
+"FF": 82,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6561,7 +6561,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 91,
+"FF": 83,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6598,7 +6598,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 92,
+"FF": 84,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6635,7 +6635,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 93,
+"FF": 85,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6672,7 +6672,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 94,
+"FF": 86,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6709,7 +6709,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 95,
+"FF": 87,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6746,7 +6746,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 96,
+"FF": 88,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6783,7 +6783,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 97,
+"FF": 89,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6820,7 +6820,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 98,
+"FF": 90,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6857,7 +6857,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 99,
+"FF": 91,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6894,7 +6894,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 100,
+"FF": 92,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6931,7 +6931,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 101,
+"FF": 93,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -6968,7 +6968,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 102,
+"FF": 94,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7005,7 +7005,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 103,
+"FF": 95,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7042,7 +7042,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 104,
+"FF": 96,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7079,7 +7079,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 105,
+"FF": 97,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7116,7 +7116,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 106,
+"FF": 98,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7153,7 +7153,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 107,
+"FF": 99,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7190,7 +7190,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 108,
+"FF": 100,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7227,7 +7227,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 109,
+"FF": 101,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7264,7 +7264,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 110,
+"FF": 102,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7301,7 +7301,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 111,
+"FF": 103,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7338,7 +7338,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 112,
+"FF": 104,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7375,7 +7375,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 113,
+"FF": 105,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7412,7 +7412,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 114,
+"FF": 106,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7449,7 +7449,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 115,
+"FF": 107,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7486,7 +7486,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 116,
+"FF": 108,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7523,7 +7523,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 117,
+"FF": 109,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7560,7 +7560,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 118,
+"FF": 110,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7597,7 +7597,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 119,
+"FF": 111,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7634,7 +7634,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 120,
+"FF": 112,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7671,7 +7671,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 121,
+"FF": 113,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7708,7 +7708,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 122,
+"FF": 114,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7745,7 +7745,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 123,
+"FF": 115,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7782,7 +7782,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 124,
+"FF": 116,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7819,7 +7819,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 125,
+"FF": 117,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7856,7 +7856,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 126,
+"FF": 118,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7893,7 +7893,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 127,
+"FF": 119,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7930,7 +7930,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 128,
+"FF": 120,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -7967,7 +7967,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 129,
+"FF": 121,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8004,7 +8004,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 130,
+"FF": 122,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8041,7 +8041,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 131,
+"FF": 123,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8078,7 +8078,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 132,
+"FF": 124,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8115,7 +8115,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 133,
+"FF": 125,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8152,7 +8152,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 134,
+"FF": 126,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8189,7 +8189,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 135,
+"FF": 127,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8226,7 +8226,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 136,
+"FF": 128,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8263,7 +8263,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 137,
+"FF": 129,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8300,7 +8300,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 138,
+"FF": 130,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8337,7 +8337,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 139,
+"FF": 131,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8374,7 +8374,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 140,
+"FF": 132,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8411,7 +8411,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 141,
+"FF": 133,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8448,7 +8448,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 142,
+"FF": 134,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8485,7 +8485,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 143,
+"FF": 135,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8522,7 +8522,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 144,
+"FF": 136,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8559,7 +8559,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 145,
+"FF": 137,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8596,7 +8596,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 146,
+"FF": 138,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8633,7 +8633,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 147,
+"FF": 139,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8670,7 +8670,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 148,
+"FF": 140,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8707,7 +8707,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 149,
+"FF": 141,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8744,7 +8744,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 150,
+"FF": 142,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8781,7 +8781,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 151,
+"FF": 143,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8818,7 +8818,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 152,
+"FF": 144,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8855,7 +8855,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 153,
+"FF": 145,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8892,7 +8892,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 154,
+"FF": 146,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8929,7 +8929,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 155,
+"FF": 147,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -8966,7 +8966,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 156,
+"FF": 148,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9003,7 +9003,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 157,
+"FF": 149,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9040,7 +9040,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 158,
+"FF": 150,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9077,7 +9077,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 159,
+"FF": 151,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9114,7 +9114,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 160,
+"FF": 152,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9151,7 +9151,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 161,
+"FF": 153,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9188,7 +9188,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 162,
+"FF": 154,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9225,7 +9225,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 163,
+"FF": 155,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9262,7 +9262,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 164,
+"FF": 156,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9299,7 +9299,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 165,
+"FF": 157,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9336,7 +9336,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 166,
+"FF": 158,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9373,7 +9373,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 167,
+"FF": 159,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9410,7 +9410,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 168,
+"FF": 160,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9447,7 +9447,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 169,
+"FF": 161,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9484,7 +9484,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 170,
+"FF": 162,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9521,7 +9521,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 171,
+"FF": 163,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9558,7 +9558,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 172,
+"FF": 164,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9595,7 +9595,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 173,
+"FF": 165,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9632,7 +9632,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 174,
+"FF": 166,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9669,7 +9669,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 175,
+"FF": 167,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9706,7 +9706,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 176,
+"FF": 168,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9743,7 +9743,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 177,
+"FF": 169,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9780,7 +9780,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 178,
+"FF": 170,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9817,7 +9817,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 179,
+"FF": 171,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9854,7 +9854,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 180,
+"FF": 172,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9891,7 +9891,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 181,
+"FF": 173,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9928,7 +9928,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 182,
+"FF": 174,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -9965,7 +9965,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 183,
+"FF": 175,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10002,7 +10002,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 184,
+"FF": 176,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10039,7 +10039,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 185,
+"FF": 177,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10076,7 +10076,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 186,
+"FF": 178,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10113,7 +10113,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 187,
+"FF": 179,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10150,7 +10150,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 188,
+"FF": 180,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10187,7 +10187,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 189,
+"FF": 181,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10224,7 +10224,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 190,
+"FF": 182,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10261,7 +10261,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 191,
+"FF": 183,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10298,7 +10298,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 192,
+"FF": 184,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10335,7 +10335,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 193,
+"FF": 185,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10372,7 +10372,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 194,
+"FF": 186,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10409,7 +10409,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 195,
+"FF": 187,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10446,7 +10446,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 196,
+"FF": 188,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10483,7 +10483,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 197,
+"FF": 189,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10520,7 +10520,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 198,
+"FF": 190,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10557,7 +10557,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 199,
+"FF": 191,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10594,7 +10594,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 200,
+"FF": 192,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10631,7 +10631,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 201,
+"FF": 193,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10668,7 +10668,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 202,
+"FF": 194,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10705,7 +10705,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 203,
+"FF": 195,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10742,7 +10742,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 204,
+"FF": 196,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10779,7 +10779,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 205,
+"FF": 197,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10816,7 +10816,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 206,
+"FF": 198,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10853,7 +10853,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 207,
+"FF": 199,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10890,7 +10890,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 208,
+"FF": 200,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10927,7 +10927,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 209,
+"FF": 201,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -10964,7 +10964,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 210,
+"FF": 202,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11001,7 +11001,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 211,
+"FF": 203,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11038,7 +11038,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 212,
+"FF": 204,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11075,7 +11075,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 213,
+"FF": 205,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11112,7 +11112,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 214,
+"FF": 206,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11149,7 +11149,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 215,
+"FF": 207,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11186,7 +11186,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 216,
+"FF": 208,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11223,7 +11223,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 217,
+"FF": 209,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11260,7 +11260,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 218,
+"FF": 210,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11297,7 +11297,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 219,
+"FF": 211,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11334,7 +11334,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 220,
+"FF": 212,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11371,7 +11371,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 221,
+"FF": 213,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11408,7 +11408,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 222,
+"FF": 214,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11445,7 +11445,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 223,
+"FF": 215,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11482,7 +11482,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 224,
+"FF": 216,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11519,7 +11519,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 225,
+"FF": 217,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11556,7 +11556,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 226,
+"FF": 218,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11593,7 +11593,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 227,
+"FF": 219,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11630,7 +11630,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 228,
+"FF": 220,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11667,7 +11667,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 229,
+"FF": 221,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11704,7 +11704,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 230,
+"FF": 222,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11741,7 +11741,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 231,
+"FF": 223,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11778,7 +11778,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 232,
+"FF": 224,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11815,7 +11815,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 233,
+"FF": 225,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11852,7 +11852,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 234,
+"FF": 226,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11889,7 +11889,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 235,
+"FF": 227,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11926,7 +11926,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 236,
+"FF": 228,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -11963,7 +11963,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 237,
+"FF": 229,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12000,7 +12000,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 238,
+"FF": 230,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12037,7 +12037,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 239,
+"FF": 231,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12074,7 +12074,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 240,
+"FF": 232,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12111,7 +12111,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 241,
+"FF": 233,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12148,7 +12148,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 242,
+"FF": 234,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12185,7 +12185,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 243,
+"FF": 235,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12222,7 +12222,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 244,
+"FF": 236,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12259,7 +12259,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 245,
+"FF": 237,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12296,7 +12296,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 246,
+"FF": 238,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12333,7 +12333,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 247,
+"FF": 239,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12370,7 +12370,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 248,
+"FF": 240,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12407,7 +12407,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 249,
+"FF": 241,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12444,7 +12444,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 250,
+"FF": 242,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12481,7 +12481,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 243,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12518,7 +12518,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 244,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12555,7 +12555,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 245,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12592,7 +12592,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 246,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12629,7 +12629,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 247,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12666,7 +12666,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 248,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12703,7 +12703,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 249,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -12740,7 +12740,7 @@
 "SN": "Pico Gut Punch Death Frame Labels",
 "IN": "",
 "ST": "G",
-"FF": 251,
+"FF": 250,
 "LP": "PO",
 "TRP": {
 "x": 0.0,
@@ -14210,6 +14210,302 @@
 }
 }
 ]
+},
+{
+"I": 379,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 380,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 381,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 382,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 383,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 384,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 385,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 386,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "Pico Gut Punch Death Frame Labels",
+"IN": "",
+"ST": "G",
+"FF": 251,
+"LP": "PO",
+"TRP": {
+"x": 0.0,
+"y": 0.0
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+269.85,
+34.9,
+0.0,
+1.0
+]
+}
+}
+]
 }
 ]
 }
@@ -14219,7 +14515,7 @@
 "SD": {
 "S": [
 {
-"SN": "Pico fighting stance idle",
+"SN": "sprites/Pico fighting stance idle",
 "TL": {
 "L": [
 {
@@ -15056,7 +15352,7 @@
 0.0,
 1.0,
 0.0,
-60.5,
+59.25,
 17.6,
 0.0,
 1.0
@@ -15644,7 +15940,7 @@
 0.0,
 1.0,
 0.0,
-0.0,
+-7.65,
 0.0,
 0.0,
 1.0
@@ -15685,8 +15981,8 @@
 0.0,
 1.0,
 0.0,
--1.0,
-2.0,
+-7.0,
+3.0,
 0.0,
 1.0
 ]
@@ -15823,7 +16119,7 @@
 }
 },
 {
-"SN": "Pico Block Hit",
+"SN": "sprites/Pico Block Hit",
 "TL": {
 "L": [
 {
@@ -16389,8 +16685,8 @@
 0.0,
 1.0,
 0.0,
-0.0,
-0.0,
+-19.0,
+18.0,
 0.0,
 1.0
 ]
@@ -16568,7 +16864,7 @@
 }
 },
 {
-"SN": "pico dodge",
+"SN": "sprites/pico dodge",
 "TL": {
 "L": [
 {
@@ -17028,7 +17324,7 @@
 }
 },
 {
-"SN": "punch high pico",
+"SN": "sprites/punch high pico",
 "TL": {
 "L": [
 {
@@ -17491,8 +17787,8 @@
 0.0,
 1.0,
 0.0,
-0.0,
-0.0,
+6.85,
+-3.9,
 0.0,
 1.0
 ]
@@ -17670,7 +17966,7 @@
 }
 },
 {
-"SN": "Punch High 2 Pico ",
+"SN": "sprites/Punch High 2 Pico ",
 "TL": {
 "L": [
 {
@@ -18271,7 +18567,7 @@
 }
 },
 {
-"SN": "Punch Low Pico",
+"SN": "sprites/Punch Low Pico",
 "TL": {
 "L": [
 {
@@ -18667,7 +18963,7 @@
 }
 },
 {
-"SN": "punch low 2 pico ",
+"SN": "sprites/punch low 2 pico ",
 "TL": {
 "L": [
 {
@@ -19191,7 +19487,7 @@
 }
 },
 {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "TL": {
 "L": [
 {
@@ -19290,7 +19586,7 @@
 }
 },
 {
-"SN": "hit high pico",
+"SN": "sprites/hit high pico",
 "TL": {
 "L": [
 {
@@ -19389,7 +19685,7 @@
 }
 },
 {
-"SN": "uppercut hit pico",
+"SN": "sprites/uppercut hit pico",
 "TL": {
 "L": [
 {
@@ -19709,7 +20005,7 @@
 }
 },
 {
-"SN": "fake out pico",
+"SN": "sprites/fake out pico",
 "TL": {
 "L": [
 {
@@ -20674,6 +20970,3462 @@
 }
 }
 ]
+},
+{
+"I": 5,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 6,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 7,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 8,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 9,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.550000000000007
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 2,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 2,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.300000000000007,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 10,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 3,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 3,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 11,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 4,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 4,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 12,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 13,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 14,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 15,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 16,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.550000000000007
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 2,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 2,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.300000000000007,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 17,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 3,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 3,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 18,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 4,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 4,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 19,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 5,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 20,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 6,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 21,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 7,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
+},
+{
+"I": 22,
+"DU": 1,
+"E": [
+{
+"SI": {
+"SN": "left arm bent pico ",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 39.1,
+"y": 40.55
+},
+"M3D": [
+0.89886474609375,
+-0.4271697998046875,
+0.0,
+0.0,
+0.4271697998046875,
+0.89886474609375,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+156.75,
+88.2,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico body fightan stance",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 249.25,
+"y": 285.5
+},
+"M3D": [
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.105712890625,
+0.9722137451171875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+33.35,
+175.3,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm pullback",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 124.95,
+"y": 84.4
+},
+"M3D": [
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+0.967987060546875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+3.2,
+29.35,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico head slight turn",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 134.65,
+"y": 107.9
+},
+"M3D": [
+1.0035552978515626,
+-0.109375,
+0.0,
+0.0,
+0.10638427734375,
+0.97613525390625,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+51.45,
+31.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "pico arm bent",
+"IN": "",
+"ST": "G",
+"FF": 8,
+"LP": "LP",
+"TRP": {
+"x": 17.5,
+"y": 16.25
+},
+"M3D": [
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.071014404296875,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+247.05,
+171.75,
+0.0,
+1.0
+]
+}
+},
+{
+"SI": {
+"SN": "face fakeout pico",
+"IN": "",
+"ST": "G",
+"FF": 0,
+"LP": "LP",
+"TRP": {
+"x": 63.3,
+"y": 41.95
+},
+"M3D": [
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0,
+1.0,
+0.0,
+84.1,
+139.9,
+0.0,
+1.0
+]
+}
+}
+]
 }
 ]
 }
@@ -20961,7 +24713,7 @@
 }
 },
 {
-"SN": "laughing pico",
+"SN": "sprites/laughing pico",
 "TL": {
 "L": [
 {
@@ -22768,7 +26520,7 @@
 "IN": "",
 "ST": "G",
 "FF": 0,
-"LP": "LP",
+"LP": "SF",
 "TRP": {
 "x": 167.20000000000003,
 "y": 148.95000000000003
@@ -22866,8 +26618,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 1,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -22965,8 +26717,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 2,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23064,8 +26816,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 3,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23163,8 +26915,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 4,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23262,8 +27014,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 5,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23361,8 +27113,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 6,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23460,8 +27212,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 7,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23559,8 +27311,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 8,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23658,8 +27410,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 9,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23757,8 +27509,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 10,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23856,8 +27608,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 11,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -23955,8 +27707,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 12,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24055,7 +27807,7 @@
 "IN": "",
 "ST": "G",
 "FF": 0,
-"LP": "LP",
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24153,8 +27905,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 1,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24252,8 +28004,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 2,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24351,8 +28103,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 3,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24450,8 +28202,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 4,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24549,8 +28301,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 5,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24648,8 +28400,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 6,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24747,8 +28499,8 @@
 "SN": "pico body laugh",
 "IN": "",
 "ST": "G",
-"FF": 7,
-"LP": "LP",
+"FF": 0,
+"LP": "SF",
 "TRP": {
 "x": 167.2,
 "y": 148.95
@@ -24838,8 +28590,8 @@
 0.0,
 1.0,
 0.0,
-4.0,
-15.0,
+0.0,
+19.0,
 0.0,
 1.0
 ]
@@ -25060,8 +28812,8 @@
 0.0,
 1.0,
 0.0,
-0.0,
-0.0,
+-3.85,
+-1.9,
 0.0,
 1.0
 ]
@@ -25157,7 +28909,7 @@
 }
 },
 {
-"SN": "Pre-Uppercut Pico",
+"SN": "sprites/Pre-Uppercut Pico",
 "TL": {
 "L": [
 {
@@ -25634,7 +29386,7 @@
 }
 },
 {
-"SN": "uppercut pico",
+"SN": "sprites/uppercut pico",
 "TL": {
 "L": [
 {
@@ -30369,7 +34121,7 @@
 }
 },
 {
-"SN": "spin pico ",
+"SN": "sprites/spin pico ",
 "TL": {
 "L": [
 {
@@ -30508,7 +34260,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -30545,7 +34297,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -30582,7 +34334,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -30619,7 +34371,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 3,
@@ -30656,7 +34408,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 4,
@@ -30693,7 +34445,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 5,
@@ -30730,7 +34482,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 6,
@@ -30767,7 +34519,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 7,
@@ -30804,7 +34556,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 8,
@@ -30841,7 +34593,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 9,
@@ -30878,7 +34630,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 10,
@@ -30915,7 +34667,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 11,
@@ -30952,7 +34704,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 12,
@@ -30989,7 +34741,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 13,
@@ -31026,7 +34778,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 14,
@@ -31063,7 +34815,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 15,
@@ -31100,7 +34852,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 16,
@@ -31137,7 +34889,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 17,
@@ -31174,7 +34926,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 18,
@@ -31211,7 +34963,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 19,
@@ -31248,7 +35000,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 20,
@@ -31285,7 +35037,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 21,
@@ -31322,7 +35074,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 22,
@@ -31359,7 +35111,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 23,
@@ -31396,7 +35148,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 24,
@@ -31433,7 +35185,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 25,
@@ -31470,7 +35222,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 26,
@@ -31507,7 +35259,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 27,
@@ -31544,7 +35296,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 28,
@@ -31581,7 +35333,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 29,
@@ -31618,7 +35370,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 30,
@@ -31655,7 +35407,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 31,
@@ -31692,7 +35444,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 32,
@@ -31729,7 +35481,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 33,
@@ -31766,7 +35518,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 34,
@@ -31803,7 +35555,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 35,
@@ -31840,7 +35592,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 36,
@@ -31877,7 +35629,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 37,
@@ -31914,7 +35666,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 38,
@@ -31951,7 +35703,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 39,
@@ -31988,7 +35740,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 40,
@@ -32025,7 +35777,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 41,
@@ -32062,7 +35814,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 42,
@@ -32099,7 +35851,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 43,
@@ -32136,7 +35888,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 44,
@@ -32173,7 +35925,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 45,
@@ -32210,7 +35962,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 46,
@@ -32247,7 +35999,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 47,
@@ -32284,7 +36036,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 48,
@@ -32321,7 +36073,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 49,
@@ -32358,7 +36110,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 50,
@@ -32395,7 +36147,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 51,
@@ -32432,7 +36184,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 52,
@@ -32469,7 +36221,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 53,
@@ -32506,7 +36258,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 54,
@@ -32543,7 +36295,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 55,
@@ -32580,7 +36332,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 56,
@@ -32617,7 +36369,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 57,
@@ -32654,7 +36406,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 58,
@@ -32691,7 +36443,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 59,
@@ -32728,7 +36480,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 60,
@@ -32765,7 +36517,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 61,
@@ -32802,7 +36554,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 62,
@@ -32839,7 +36591,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 63,
@@ -32876,7 +36628,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 64,
@@ -32913,7 +36665,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 65,
@@ -32950,7 +36702,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 66,
@@ -32987,7 +36739,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 67,
@@ -33024,7 +36776,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 68,
@@ -33061,7 +36813,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 69,
@@ -33098,7 +36850,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 70,
@@ -33135,7 +36887,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 71,
@@ -33172,7 +36924,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 72,
@@ -33209,7 +36961,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 73,
@@ -33246,7 +36998,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 74,
@@ -33283,7 +37035,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 75,
@@ -33320,7 +37072,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 76,
@@ -33357,7 +37109,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 77,
@@ -33394,7 +37146,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 78,
@@ -33431,7 +37183,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 79,
@@ -33468,7 +37220,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 80,
@@ -33505,7 +37257,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 81,
@@ -33542,7 +37294,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 82,
@@ -33579,7 +37331,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 83,
@@ -33616,7 +37368,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 84,
@@ -33653,7 +37405,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 85,
@@ -33690,7 +37442,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 86,
@@ -33727,7 +37479,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 87,
@@ -33764,7 +37516,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 88,
@@ -33801,7 +37553,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 89,
@@ -33838,7 +37590,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 90,
@@ -33875,7 +37627,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 91,
@@ -33912,7 +37664,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 92,
@@ -33949,7 +37701,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 93,
@@ -33986,7 +37738,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 94,
@@ -34023,7 +37775,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 95,
@@ -34060,7 +37812,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 96,
@@ -34097,7 +37849,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 97,
@@ -34134,7 +37886,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 98,
@@ -34171,7 +37923,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 99,
@@ -34208,7 +37960,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 100,
@@ -34245,7 +37997,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 101,
@@ -34282,7 +38034,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 102,
@@ -34319,7 +38071,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 103,
@@ -34356,7 +38108,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 104,
@@ -34393,7 +38145,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 105,
@@ -34430,7 +38182,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 106,
@@ -34467,7 +38219,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 107,
@@ -34504,7 +38256,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 108,
@@ -34541,7 +38293,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 109,
@@ -34578,7 +38330,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 110,
@@ -34615,7 +38367,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 111,
@@ -34652,7 +38404,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 112,
@@ -34689,7 +38441,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 113,
@@ -34726,7 +38478,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 114,
@@ -34763,7 +38515,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 115,
@@ -34800,7 +38552,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 116,
@@ -34837,7 +38589,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 117,
@@ -34874,7 +38626,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 118,
@@ -34911,7 +38663,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 119,
@@ -34948,7 +38700,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 120,
@@ -34985,7 +38737,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 121,
@@ -35022,7 +38774,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 122,
@@ -35059,7 +38811,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 123,
@@ -35096,7 +38848,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 124,
@@ -35133,7 +38885,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 125,
@@ -35170,7 +38922,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 126,
@@ -35207,7 +38959,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 127,
@@ -35244,7 +38996,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 128,
@@ -35281,7 +39033,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 129,
@@ -35318,7 +39070,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 130,
@@ -35355,7 +39107,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 131,
@@ -35392,7 +39144,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 132,
@@ -35429,7 +39181,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 133,
@@ -35466,7 +39218,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 134,
@@ -35503,7 +39255,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 135,
@@ -35540,7 +39292,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 136,
@@ -35577,7 +39329,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 137,
@@ -35614,7 +39366,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 138,
@@ -35651,7 +39403,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 139,
@@ -35688,7 +39440,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 140,
@@ -35725,7 +39477,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 141,
@@ -35762,7 +39514,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 142,
@@ -35799,7 +39551,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 143,
@@ -35836,7 +39588,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 144,
@@ -35873,7 +39625,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 145,
@@ -35910,7 +39662,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 146,
@@ -35947,7 +39699,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 147,
@@ -35984,7 +39736,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 148,
@@ -36021,7 +39773,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 149,
@@ -36058,7 +39810,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 150,
@@ -36095,7 +39847,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 151,
@@ -36132,7 +39884,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 152,
@@ -36169,7 +39921,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 153,
@@ -36206,7 +39958,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 154,
@@ -36243,7 +39995,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 155,
@@ -36280,7 +40032,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 156,
@@ -36317,7 +40069,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 157,
@@ -36354,7 +40106,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 158,
@@ -36391,7 +40143,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 159,
@@ -36428,7 +40180,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 160,
@@ -36465,7 +40217,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 161,
@@ -36502,7 +40254,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 162,
@@ -36539,7 +40291,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 163,
@@ -36576,7 +40328,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 164,
@@ -36613,7 +40365,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 165,
@@ -36650,7 +40402,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 166,
@@ -36687,7 +40439,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 167,
@@ -36724,7 +40476,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 168,
@@ -36761,7 +40513,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 169,
@@ -36798,7 +40550,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 170,
@@ -36835,7 +40587,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 171,
@@ -36872,7 +40624,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 172,
@@ -36909,7 +40661,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 173,
@@ -36946,7 +40698,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 174,
@@ -36983,7 +40735,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 175,
@@ -37020,7 +40772,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 176,
@@ -37057,7 +40809,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 177,
@@ -37094,7 +40846,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 178,
@@ -37131,7 +40883,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 179,
@@ -37168,7 +40920,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 180,
@@ -37205,7 +40957,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 181,
@@ -37242,7 +40994,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 182,
@@ -37279,7 +41031,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 183,
@@ -37316,7 +41068,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 184,
@@ -37353,7 +41105,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 185,
@@ -37390,7 +41142,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 186,
@@ -37427,7 +41179,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 187,
@@ -37464,7 +41216,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 188,
@@ -37501,7 +41253,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 189,
@@ -37538,7 +41290,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 190,
@@ -37575,7 +41327,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 191,
@@ -37612,7 +41364,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 192,
@@ -37649,7 +41401,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 193,
@@ -37686,7 +41438,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 194,
@@ -37723,7 +41475,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 195,
@@ -37760,7 +41512,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 196,
@@ -37797,7 +41549,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 197,
@@ -37834,7 +41586,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 198,
@@ -37871,7 +41623,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 199,
@@ -37908,7 +41660,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 200,
@@ -37945,7 +41697,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 201,
@@ -37982,7 +41734,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 202,
@@ -38019,7 +41771,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 203,
@@ -38056,7 +41808,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 204,
@@ -38093,7 +41845,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 205,
@@ -38130,7 +41882,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 206,
@@ -38167,7 +41919,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 207,
@@ -38204,7 +41956,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 208,
@@ -38241,7 +41993,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 209,
@@ -38278,7 +42030,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 210,
@@ -38315,7 +42067,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 211,
@@ -38352,7 +42104,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 212,
@@ -38389,7 +42141,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 213,
@@ -38426,7 +42178,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 214,
@@ -38463,7 +42215,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 215,
@@ -38500,7 +42252,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 216,
@@ -38537,7 +42289,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 217,
@@ -38574,7 +42326,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 218,
@@ -38611,7 +42363,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 219,
@@ -38648,7 +42400,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 220,
@@ -38685,7 +42437,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 221,
@@ -38722,7 +42474,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 222,
@@ -38759,7 +42511,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 223,
@@ -38796,7 +42548,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 224,
@@ -38833,7 +42585,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 225,
@@ -38870,7 +42622,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 226,
@@ -38907,7 +42659,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 227,
@@ -38944,7 +42696,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 228,
@@ -38981,7 +42733,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 229,
@@ -39018,7 +42770,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 230,
@@ -39055,7 +42807,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 231,
@@ -39092,7 +42844,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 232,
@@ -39129,7 +42881,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 233,
@@ -39166,7 +42918,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 234,
@@ -39203,7 +42955,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 235,
@@ -39240,7 +42992,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 236,
@@ -39277,7 +43029,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 237,
@@ -39314,7 +43066,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 238,
@@ -39351,7 +43103,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 239,
@@ -39388,7 +43140,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 240,
@@ -39425,7 +43177,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 241,
@@ -39462,7 +43214,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 242,
@@ -39499,7 +43251,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 243,
@@ -39536,7 +43288,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 244,
@@ -39573,7 +43325,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 245,
@@ -39610,7 +43362,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 246,
@@ -39647,7 +43399,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 247,
@@ -39684,7 +43436,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 248,
@@ -39721,7 +43473,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 249,
@@ -39758,7 +43510,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 250,
@@ -39795,7 +43547,7 @@
 "E": [
 {
 "SI": {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "IN": "",
 "ST": "G",
 "FF": 251,
@@ -39832,7 +43584,7 @@
 }
 },
 {
-"SN": "Pico Gut Punch Death",
+"SN": "sprites/Pico Gut Punch Death",
 "TL": {
 "L": [
 {
@@ -42740,7 +46492,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 0,
@@ -42777,7 +46529,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 1,
@@ -42814,7 +46566,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 2,
@@ -42851,7 +46603,7 @@
 "E": [
 {
 "SI": {
-"SN": "hit low Pico",
+"SN": "sprites/hit low Pico",
 "IN": "",
 "ST": "G",
 "FF": 3,
